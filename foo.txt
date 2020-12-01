@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+void foo() {
+	cout << "foo-function was called!\n";
+}
+
+int main() {
+	foo();
+	cin.get();
+	return 0;
+}
