@@ -3,6 +3,7 @@ using namespace std;
 
 void foo() {
 	cout << "foo-function was called!\n";
+	cout << "Beep-beep!\n";
 }
 
 int main() {
