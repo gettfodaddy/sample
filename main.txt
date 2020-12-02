@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/* Entry point */
 int main() {
 	cout << "Enter your name: ";
 	string name; getline(cin, name);
