@@ -3,7 +3,7 @@ using namespace std;
 
 void boo() {
 	cout << "boo-function was called right now!\n";
-	cout << "Hello, mate!\n";
+	cout << "Hello, mate!!!\n";
 }
 
 int main() {
