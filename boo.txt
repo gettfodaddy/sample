@@ -2,7 +2,7 @@
 using namespace std;
 
 void boo() {
-	cout << "boo-function was called!\n";
+	cout << "boo-function was called right now!\n";
 	cout << "Beep-beep-beep!\n";
 }
 
