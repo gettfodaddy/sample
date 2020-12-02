@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 
+
 void foo() {
 	cout << "foo-function was called!\n";
-	cout << "Beep-beep-beep!\n";
+	cout << "Beep-beep!\n";
 }
 
 int main() {
@@ -11,3 +12,18 @@ int main() {
 	cin.get();
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
